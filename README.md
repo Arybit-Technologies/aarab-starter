@@ -8,7 +8,7 @@ Built in Nairobi, Kenya. Intelligent AI.
 
 ## Features
 - Runs Llama 3.1 70B (Q4_K_M) or Qwen2.5 72B locally with Ollama
-- Uses the **Veritas** persona (fact-checking & validation specialist)
+- Uses the **Veritas** agent (fact-checking & validation specialist)
 - Simple PHP frontend + API backend
 - Fully offline — no cloud, no API keys
 - <2-second inference on a single RTX 4090
