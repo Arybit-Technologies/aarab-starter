@@ -4,7 +4,7 @@ Minimal, runnable demo of AARAB — an autonomous AI research agent running a **
 
 Built in Nairobi, Kenya. Sovereign AI for Africa.
 
-![AARAB demo screenshot](https://i.imgur.com/EXAMPLE.png)  
+![AARAB demo screenshot](https://arybit.co.ke/img/ai_core_svg_logo.svg)
 *(Replace with your actual screenshot once you have one)*
 
 ## Features
@@ -23,34 +23,10 @@ Built in Nairobi, Kenya. Sovereign AI for Africa.
 ### Run locally
 
 ```bash
-git clone https://github.com/Arybit-Technologies/aarab-starter.git
+git clone [https://github.com/Arybit-Technologies/aarab-starter.git](https://github.com/Arybit-Technologies/aarab-starter.git)
 cd aarab-starter
 
 # Start Ollama + PHP app
 docker compose up -d
 
 # Visit http://localhost:8080
-```
-
-### Or run Ollama manually
-
-```bash
-ollama pull llama3.1:70b-q4_K_M
-php -S 0.0.0.0:8000 -t public
-```
-
-Open http://localhost:8000 — type a research question and watch Veritas answer.
-
-## Why we open-sourced this
-We want to show the world that powerful, ethical AI can be built and run locally in Africa — no foreign cloud required.
-
-## Coming soon
-- More personas (20+ total)
-- Knowledge graph integration
-- Full multi-agent pipeline
-
-Built with ❤️ in Nairobi by Arybit Technologies  
-Follow us on X: [@arybittech](https://x.com/arybittech)
-
-MIT License
-```
