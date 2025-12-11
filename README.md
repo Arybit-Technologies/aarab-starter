@@ -4,7 +4,7 @@ Minimal, runnable demo of AARAB — an autonomous AI research agent running a **
 
 Built in Nairobi, Kenya. Sovereign AI for Africa.
 
-![AARAB demo screenshot](https://arybit.co.ke/img/ai_core_svg_logo_screenshot.png)
+![AARAB demo screenshot](https://aarab.arybit.co.ke/img/ai_core_svg_logo_screenshot.png)
 *(Replace with your actual screenshot once you have one)*
 
 ## Features
