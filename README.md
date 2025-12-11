@@ -2,10 +2,9 @@
 
 Minimal, runnable demo of AARAB — an autonomous AI research agent running a **70B-class model offline** in under 5 minutes.
 
-Built in Nairobi, Kenya. Sovereign AI for Africa.
+Built in Nairobi, Kenya. Intelligent AI.
 
 ![AARAB demo screenshot](https://aarab.arybit.co.ke/img/ai_core_svg_logo_screenshot.png)
-*(Replace with your actual screenshot once you have one)*
 
 ## Features
 - Runs Llama 3.1 70B (Q4_K_M) or Qwen2.5 72B locally with Ollama
