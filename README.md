@@ -6,6 +6,9 @@ Built in Nairobi, Kenya. Intelligent AI.
 
 ![AARAB demo screenshot](https://aarab.arybit.co.ke/img/ai_core_svg_logo_screenshot.png)
 
+## Try the live public demo
+https://aarab.arybit.co.ke (limited free queries)
+
 ## Features
 - Runs Llama 3.1 70B (Q4_K_M) or Qwen2.5 72B locally with Ollama
 - Uses the **Veritas** agent (fact-checking & validation specialist)
